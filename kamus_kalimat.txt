@@ -1,0 +1,99 @@
+N1 N N A4 N N H2 N A4 N1 T N 
+N1 D A4 H N N T A4 N V N N N 
+N A N H1 A5 R N N A4 N A3 
+N N A3 A N 
+N N D U A4 N N 
+N A4 H N U A4 N N R N N 
+N N H1 R A R N N A N A5 N N N 
+N N A4 A N H2 N 
+N U A 
+N N B A4 N R V 
+N V H N I A4 N 
+N N N H1 R A R N N H2 R A H N N N A1 N N 
+N D I A 
+N D U A 
+N I1 N H1 V R A 
+N N H1 A4 N N N N B A4 N N 
+N U A4 N T V N 
+N A4 N N N 
+N H1 A4 N N N R N V B V H N N 
+N N N R A R N 
+N D A4 N R N V T 
+N N A4 N 
+N N A4 N N 
+N A4 H N A N N N N N 
+N V T A5 N 
+N A5 N N H2 N N R N N 
+N V T A4 N 
+N A4 N N H2 N N R N N 
+N U A4 N V N 
+N A4 N N R N N N 
+N I A4 N D 
+N T A5 N N 
+N A5 H N U R N N D 
+N D A A4 
+H A N A4 N T N V 
+N A4 N N N N R N A 
+N A4 N N N N 
+N H1 A4 N N N N H2 N N B A4 N N N R N N N N D 
+R N N N N D N H1 A4 N N N N H2 N N B A4 N N N 
+N N N N N 
+H N A N U A R N 
+N T R A R N N N 
+N N D V H B N 
+H A4 N N N A A N H2 N 
+N D A4 A V H A4 N V T 
+N A4 N D R N N1 T 
+N A R N B N T 
+N A4 N D R N 
+N A1 N N A3 H N N H2 N H1 A4 N N H1 N H2 B A5 V 
+N V T A4 N N H2 N 
+N H1 V U A4 N N H2 N N N N1 N H1 A4 N N N N1 H2 N 
+N A1 N N A3 H N N H2 N H1 A4 N N H1 N H2 B A5 V 
+N N T A5 N N H1 V T A4 N N H2 N 
+N N N H2 N N H1 V R N N N A2 V N N H N N N 
+N N N N R A H R A N R N 
+A4 A2 N N H A4 N H2 N T N N N R N N H2 N 
+N A N 
+N U A N 
+N I U A N 
+N I V A 
+N I A 
+N A R N 
+N A R N R N 
+N A N N 
+N A4 N
+N A4 N R N
+N V N
+N I A4 N
+N V N N
+N B A4 N N
+N I A N
+N H1 A4 N N N N B A4 N N
+N H1 A5 R N N A4 N A3
+N A4 N1 R N
+N H1 H4 N N N B A4 N N
+N H1 A4 N N N B A4 N N
+N I V N
+N B V
+N U A N N
+N A B N
+N D A R N
+N V A N
+N U A R N
+N A4 N1 R N N
+N A2 N N H A4 N H2 N T N N N R N N H2 N
+N A5 B V N T N N A
+N A4 B V H A4 N D
+N A3 B V
+N U A4 N N
+N A4 N H2 N R N
+N A1 N H1 N T A4 N N N H2 N N A3 H N
+H A Z N A4 N N
+N A4 N N N R N A
+N D V H B N
+N H1 V U A4 N N H2 N N N N N1 N H1 A4 N N N N1 H2 N
+N N U A
+N A N A
+N A4 N R V
+N U A4 N
